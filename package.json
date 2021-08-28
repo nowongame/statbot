@@ -1,7 +1,7 @@
 {
-  "name": "yashinu-statbot",
+  "name": "statbotfordiscord",
   "version": "0.0.1",
-  "description": "discord.gg/EjZH8kdesU",
+  "description": "discord.gg/turkiye",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",
